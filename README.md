@@ -1,2 +1,2 @@
-# githubio-template
-Template for github.io pages
+# God and Golem
+The game of Creator with his Creation.
